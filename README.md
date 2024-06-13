@@ -39,7 +39,7 @@ termux-setup-storage
 ```
 
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Rf-reyes-5345/GenshinBot-MD.git-MD/master/sakura.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Rf-reyes-5345/SakuraBotLite-MD/master/sakura.sh | bash
 ```
 
 - #### 📍INSTALACION👨‍💻
