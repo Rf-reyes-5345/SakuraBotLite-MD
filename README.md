@@ -3,10 +3,6 @@
 </p>
  
 <p align="center">
-<img src="https://i.postimg.cc/W4rsRq0G/622f64169d6175fc65532f6ad12c5958.jpg" alt="GataBot-MD" width="800"/>
-  
-
-<p align="center">
 <img src="https://i.postimg.cc/05SBk3b8/54100113b29584b29c8bbf4cbcde1b31.jpg" alt="Bot-WhatsApp" width="900"/>
 </p>
 
@@ -18,7 +14,7 @@
 
 
 - ### 🌤CONFIGURACION🧩
- Clonar Repo : GenshinBot [Aqui.](https://github.com/Rf-reyes-5345/GenshinBot-MD.git)
+ Clonar Repo : GenshinBot [Aqui.](https://github.com/Rf-reyes-5345/SakuraBotLite-MD.git)
 
    
   
@@ -60,7 +56,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/Rf-reyes-5345/GenshinBot-MD.git && cd GenshinBot-MD
+git clone https://github.com/Rf-reyes-5345/SakuraBotLite-MD.git && cd GenshinBot-MD
 ```
 ```bash
 yarn install && npm install
@@ -73,15 +69,15 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GenshinBot-MD
+> cd SakuraBotLite-MD
 > npm start
 ```
 
 - ### 📍OBTENCION DE UN NUEVO QR👨‍💻 
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd cd GenshinBot-MD
-> rm -rf SakuraSession
+> cd cd SakuraBotLite-MD
+> rm -rf SakuraBotSession
 > npm start
 ```
 - ### 📍ACTUALIZACION DEL BOT 🟢
@@ -96,12 +92,12 @@ Para que no pierda su progreso en SakuraBot, estos comandos realizarán un respa
 - ### 📍 Activar En Heroku 🚀
 para usuarios del heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rf-reyes-5345/GenshinBot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rf-reyes-5345/SakuraBotLite-MD)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[click](https://github.com/Rf-reyes-5345/GenshinBot-MD.git) |
+| **FFMPEG** |[click](https://github.com/Rf-reyes-5345/SakuraBotLite-MD.git) |
 | **IMAGEMAGICK** | [click](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ***
